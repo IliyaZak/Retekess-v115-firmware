@@ -2,7 +2,7 @@
 - Firmware version: 1.4, (bin);
 This is firmware for chinese 3-band reciever/audio player called Retekess v115, also known as Tivdio v115,Audiomax SRW 710 or Kaimeda SRW 710S;
 Firmware readed using CH341 USB programmer, from 16Mbit/2Mbyte SPI flash F25D16 manufacturer: FENTECH;
-+ Firware version 1.4;
++ Firmware version 1.4;
 # Specifications
 - Supported audio formats: MP3/WAV/WMA;
 - Supported radio bands:
